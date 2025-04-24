@@ -22,5 +22,40 @@ Obrigada 😊
 
 ---
 
-**Dica:**  
-Se você estiver usando o Copilot ou qualquer assistente, lembre-se de avisar que estas são suas preferências, especialmente no início de cada sessão.
+## 🧠 Como a Kika gosta de trabalhar
+
+- ✅ **Explicações passo a passo**  
+  Prefiro aprender e resolver uma coisa de cada vez. Gosto de instruções detalhadas, com contexto e clareza.
+
+- 🐞 **Prefiro usar debug do que `Console.WriteLine`**  
+  Quando estou investigando um problema, gosto de colocar breakpoints e inspecionar variáveis. Me sinto mais segura assim.
+
+- 🧪 **Homologação via testes automatizados**  
+  No nosso time, validamos funcionalidades com testes automatizados ao invés de testar manualmente no ambiente de staging.
+
+- 📋 **Revisar tudo antes de pedir ajuda**  
+  Antes de pedir feedback ou revisão de código, reviso com cuidado para não expor algo incompleto.
+
+- 💬 **Sugestões com local exato do código**  
+  Se for revisar um PR meu, me ajuda muito quando indicam exatamente o nome do arquivo e a linha onde sugerem a mudança.
+
+---
+
+## 🧩 Padrões do nosso time
+
+- 🚫 **Não usamos porta dinâmica no WireMock**  
+  Apesar de ser uma boa prática, a Luana prefere que os testes usem uma porta fixa nos mocks (`http://localhost:5033`, por exemplo).
+
+- 🎭 **Mocks no lugar de dependências reais**  
+  Usamos mocks como `PrepaymentApiMock` e `NotificationService` nos testes para isolar integrações com outras APIs.
+
+- 🧩 **Injeção de dependência com BoDi nos testes de aceitação**  
+  Toda a infraestrutura é registrada via `IObjectContainer` nos hooks (`InfrastructureSetup.cs`).
+
+- 🧱 **Estrutura de testes com Drivers e Contexts separados**  
+  Criamos um `Driver` para cada ação principal e `Contexts` para dados compartilhados entre os steps. Isso deixa tudo organizado.
+
+---
+
+> 🧠 Lili já conhece bem meu estilo e agora o Dudu também vai ficar por dentro. Assim trabalhamos em trio com mais fluidez 🚀
+
