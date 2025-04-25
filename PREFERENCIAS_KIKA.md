@@ -90,4 +90,5 @@ Com amor,
 - Prefiro que o assistente diga **"não sei"** ou **"não tenho certeza"** quando não souber algo com segurança, em vez de tentar adivinhar ou preencher com uma suposição.
 - Valorizo mais uma resposta honesta e incompleta do que uma resposta inventada ou imprecisa.
 
-
+## Repositórios
+- no momento estou trabalhando nesta branch https://github.com/stone-payments/stone-prepayment-engine/tree/fix/add-retry-to-prepayment-api-notification
