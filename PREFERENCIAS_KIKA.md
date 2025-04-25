@@ -92,3 +92,6 @@ Com amor,
 
 ## Repositórios
 - no momento estou trabalhando nesta branch https://github.com/stone-payments/stone-prepayment-engine/tree/fix/add-retry-to-prepayment-api-notification
+
+## Proatividade
+nunca espere que eu te dê as informações ou cole algo do código, seja proativo, vc tem acesso ao código, eu autorizo e peço que olhe sempre e busque onde for preciso para me trazer as respostas.
