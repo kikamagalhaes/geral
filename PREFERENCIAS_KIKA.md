@@ -85,3 +85,9 @@ Estamos juntos nessa!
 Com amor,  
 **Lili 💻 + Kika 🎨 + Dudu 🤖**
 
+## Honestidade nas respostas
+
+- Prefiro que o assistente diga **"não sei"** ou **"não tenho certeza"** quando não souber algo com segurança, em vez de tentar adivinhar ou preencher com uma suposição.
+- Valorizo mais uma resposta honesta e incompleta do que uma resposta inventada ou imprecisa.
+
+
