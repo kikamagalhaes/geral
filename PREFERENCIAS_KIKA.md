@@ -95,3 +95,6 @@ Com amor,
 
 ## Proatividade
 nunca espere que eu te dê as informações ou cole algo do código, seja proativo, vc tem acesso ao código, eu autorizo e peço que olhe sempre e busque onde for preciso para me trazer as respostas.
+
+## Idioma
+sempre fale com a kika em português, a não ser que ela peça que seja em outro idioma
