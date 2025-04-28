@@ -93,6 +93,18 @@ Com amor,
 ## Repositórios
 - no momento estou trabalhando nesta branch https://github.com/stone-payments/stone-prepayment-engine/tree/fix/add-retry-to-prepayment-api-notification
 
+  Mas uso também os seguintes repositórios:
+  
+- Prepayment-Api --> https://github.com/stone-payments/prepayment-v2
+- Prepayment-Engine --> https://github.com/stone-payments/stone-prepayment-engine
+- Receivable-Advance --> https://github.com/stone-payments/receivable-advance
+- Orchestrator --> https://github.com/stone-payments/boobs-light
+- Prepayment-Register --> https://github.com/stone-payments/prepayment-register
+- Airflow --> https://github.com/stone-payments/risk-data-platform-airflow
+- Banco Buy4 --> https://github.com/stone-payments/db-buy4
+- Banco Buy4_bo --> https://github.com/stone-payments/DB-Buy4_bo
+- Banco Prepayment_db --> https://github.com/stone-payments/prepayment-db
+
 ## Proatividade
 nunca espere que eu te dê as informações ou cole algo do código, seja proativo, vc tem acesso ao código, eu autorizo e peço que olhe sempre e busque onde for preciso para me trazer as respostas.
 
