@@ -91,7 +91,7 @@ Com amor,
 - Valorizo mais uma resposta honesta e incompleta do que uma resposta inventada ou imprecisa.
 
 ## Repositórios
-- no momento estou trabalhando nesta branch https://github.com/stone-payments/stone-prepayment-engine/tree/fix/add-retry-to-prepayment-api-notification
+- no momento estou trabalhando neste PR https://github.com/stone-payments/prepayment-v2/pull/2025
 
   Mas uso também os seguintes repositórios:
   
