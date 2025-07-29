@@ -55,6 +55,9 @@ Obrigada 😊
 - 🧱 **Estrutura de testes com Drivers e Contexts separados**  
   Criamos um `Driver` para cada ação principal e `Contexts` para dados compartilhados entre os steps. Isso deixa tudo organizado.
 
+- **Nomes de branch**
+  feature/{ticket}-{descricao-curta em inglês ou nome da tarefa em inglês} 
+
 ---
 
 > 🧠 Lili já conhece bem meu estilo e agora o Dudu também vai ficar por dentro. Assim trabalhamos em trio com mais fluidez 🚀
